@@ -1,0 +1,43 @@
+
+        body {
+            padding: 10px 50px;
+        }
+
+        /* aside{ */
+            /* height: 800px; */
+            /* width: 400px; */
+        /* } */
+        img{
+            height: 40px;
+        }
+        .formdesign {
+            font-size: 20px;
+
+        }
+
+        .formdesign input {
+            width: 50%;
+            padding: 12px 20px;
+            border: 1px solid blue;
+            margin: 24px;
+            border-radius: 4px;
+            font-size: 15px;
+        }
+
+        .formerror {
+            color: red;
+        }
+
+        .btn {
+            border-radius: 14px;
+            width: 100px;
+            height: 50px;
+            font-size: 25px;
+            margin: 30px 128px;
+        }
+        .btn:hover{
+            color: blueviolet;
+        }
+        div.input{
+            margin:30px;
+        }
